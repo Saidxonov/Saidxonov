@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Saidxonov
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on with faang
 - 📫 How to reach me Senior Frontend Developer
-- 😄 Pronouns: ...
+- 😄 Pronouns:I am very diligent
 - ⚡ Fun fact: I just started
 
 <!---
