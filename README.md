@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on with faang
 - 📫 How to reach me Senior Frontend Developer
 - 😄 Pronouns:I am very diligent
-- ⚡ Fun fact: I just started
+- ⚡ Fun fact: 
 
 <!---
 Saidxonov/Saidxonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
