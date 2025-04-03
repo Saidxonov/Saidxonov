@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saidxonov
+- 👋 Hi, I’m Saidburxon Jo'rayev
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on with faang
